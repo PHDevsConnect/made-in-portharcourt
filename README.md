@@ -10,6 +10,8 @@
 ## <a name="D"> </a>D
 
 ## <a name="E"> </a>E
+* [Elegant Atom UI](https://github.com/codehakase/elegant-atom-ui) - A simple and intuitive Atom Theme focused on giving warmth while coding **By [@codehakase](https://twitter.com/codehakase)**
+* [Elegant Syntax Theme](https://github.com/codehakase/elegant-atom-syntax) - A Mild Atom Editor Syntax package (works well with the Elegant Atom UI theme) **By [@codehakase](https://twitter.com/codehakase)**
 
 ## <a name="F"> </a>F
 
@@ -38,6 +40,7 @@
 ## <a name="R"> </a>R
 
 ## <a name="S"> </a>S
+* [StudyLog](https://github.com/codehakase/studyLog) - A tiny web application for Logging streaks and events. **By [@codehakase](https://twitter.com/codehakase)**
 
 ## <a name="T"> </a>T
 
