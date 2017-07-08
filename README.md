@@ -38,7 +38,7 @@
 ## <a name="Q"> </a>Q
 
 ## <a name="R"> </a>R
-* [RCopy](https://github.com/Jay-kel/Rcopy) - RCopy is a simple class written in PHP that helps with copying and getting the size of remote files **By [@Russell Japheth](https://github.com/RussellJapheth/)**
+* [RCopy](https://github.com/RussellJapheth/Rcopy) - RCopy is a simple class written in PHP that helps with copying and getting the size of remote files. It also supports real-time progress reporting and resumable downloads. **By [@Russell Japheth](https://twitter.com/RussellJapheth)**
 ## <a name="S"> </a>S
 * [StudyLog](https://github.com/codehakase/studyLog) - A tiny web application for Logging streaks and events. **By [@codehakase](https://twitter.com/codehakase)**
 
