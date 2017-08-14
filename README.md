@@ -32,6 +32,7 @@
 ## <a name="N"> </a>N
 
 ## <a name="O"> </a>O
+* [OLOTUICONS](https://github.com/echilaka1/olotuicons) - OLOTUICONS is a web icon font pack with customized Nigerian / African icons. **By [@echilaka1](https://twitter.com/echilaka1)**
 
 ## <a name="P"> </a>P
 
