@@ -6,6 +6,7 @@
 ## <a name="B"> </a>B
 
 ## <a name="C"> </a>C
+* [Naija JavaScript Naira Calculator][(https://codepen.io/lakaJS/pen/BqQrXj)] - A platform for Nigerians to do basic math calculations in pidgin. **By [@siccoo](https://twitter.com/ObinnaChilaka)**
 
 ## <a name="D"> </a>D
 
